@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ba0476-ecf6-4e13-acea-11a7d6d18bf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculatorHanni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorTestHanni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorAhmad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorTestAhmad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorTestAhmad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/CalculatorTestAhmad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorTestHanni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/CalculatorTestHanni.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692612380744</updated>
-      <workItem from="1692612382347" duration="875000" />
+      <workItem from="1692612382347" duration="1071000" />
     </task>
     <servers />
   </component>
