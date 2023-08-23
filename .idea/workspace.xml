@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ba0476-ecf6-4e13-acea-11a7d6d18bf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Test/CalculatorAhmadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CalculatorWithHanniAhmad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculatorWithHanniAhmad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorHanni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorHanni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorAhmad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorAhmad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/CalculatorTestHanni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/CalculatorHanniTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/CalculatorTestAhmad.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -39,32 +40,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/baban/OneDrive/Skrivebord/Datamatiker/Andet Semester/Programmer/CalculatorWithHanniAhmad",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/baban/OneDrive/Skrivebord/Datamatiker/Andet Semester/Programmer/CalculatorWithHanniAhmad&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -73,51 +73,42 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorHanniTest.divide">
-    <configuration name="CalculatorHanniTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CalculatorAhmadTest.minusTwoNumbers">
+    <configuration name="CalculatorAhmadTest.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalculatorWithHanniAhmad" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorHanniTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorHanniTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CalculatorWithHanniAhmad" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorHanniTest" />
-      <option name="METHOD_NAME" value="add" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAhmadTest" />
+      <option name="METHOD_NAME" value="addTwoNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorHanniTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorAhmadTest.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalculatorWithHanniAhmad" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorHanniTest" />
-      <option name="METHOD_NAME" value="addTest" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAhmadTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorHanniTest.divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorAhmadTest.minusTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalculatorWithHanniAhmad" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorHanniTest" />
-      <option name="METHOD_NAME" value="divide" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAhmadTest" />
+      <option name="METHOD_NAME" value="minusTwoNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorHanniTest.subtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorAhmadTest.multiplyTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalculatorWithHanniAhmad" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorHanniTest" />
-      <option name="METHOD_NAME" value="subtract" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAhmadTest" />
+      <option name="METHOD_NAME" value="multiplyTwoNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +116,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorHanniTest.divide" />
-        <item itemvalue="JUnit.CalculatorHanniTest.subtract" />
-        <item itemvalue="JUnit.CalculatorHanniTest.add" />
-        <item itemvalue="JUnit.CalculatorHanniTest.addTest" />
-        <item itemvalue="JUnit.CalculatorHanniTest" />
+        <item itemvalue="JUnit.CalculatorAhmadTest.minusTwoNumbers" />
+        <item itemvalue="JUnit.CalculatorAhmadTest.multiplyTwoNumbers" />
+        <item itemvalue="JUnit.CalculatorAhmadTest.addTwoNumbersTest" />
+        <item itemvalue="JUnit.CalculatorAhmadTest.addTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +132,10 @@
       <option name="presentableId" value="Default" />
       <updated>1692612380744</updated>
       <workItem from="1692612382347" duration="1084000" />
-      <workItem from="1692614110241" duration="5422000" />
+      <workItem from="1692613535086" duration="178000" />
+      <workItem from="1692613959830" duration="48000" />
+      <workItem from="1692698762091" duration="2128000" />
+      <workItem from="1692774085770" duration="1215000" />
     </task>
     <servers />
   </component>
