@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ba0476-ecf6-4e13-acea-11a7d6d18bf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test/CalculatorAhmadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CalculatorWithHanniAhmad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CalculatorWithHanniAhmad.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorAhmad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorAhmad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/CalculatorTestAhmad.java" beforeDir="false" />
-    </list>
+    <list default="true" id="28ba0476-ecf6-4e13-acea-11a7d6d18bf8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b26218a4-884c-41b7-bdf6-31895b993a90" />
+        <option name="url" value="https://github.com/babanoelk/CalculatorWithHanniAhmad.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -136,6 +142,7 @@
       <workItem from="1692613959830" duration="48000" />
       <workItem from="1692698762091" duration="2128000" />
       <workItem from="1692774085770" duration="1215000" />
+      <workItem from="1692779470403" duration="18000" />
     </task>
     <servers />
   </component>
